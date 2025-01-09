@@ -23,7 +23,7 @@ const Portfolio = () => {
       title: 'FarmToFork',
       img: IMG4,
       description:
-        'It is a website which is about agriculture products and their selling and it was created based on MVC technology.',
+        'It is a website which is about agriculture products and their selling and it was created based on MVC technology. Here, we have home,blog,about us and contact us pages. Also, users can login and register to the website. Home,blog pages are controlled by admin in admin panel. Furthermore, messages written by users appear in the admin panel.',
       technologies: 'C# | HTML | CSS | JavaScript | SCSS',
       link: 'https://farmtofork.bsite.net/',
       github: 'hhttps://github.com/Azima-Qadirli/FarmToFork',
@@ -32,7 +32,7 @@ const Portfolio = () => {
       id: 3,
       title: 'GreenShop',
       img: IMG2,
-      description: 'This is my final project based on Api. It is an e-commerce website for selling plants.',
+      description: 'This is my final project based on Api. It is an e-commerce website for selling plants.In this project, users can register,login to website and review all products. But only admin can add,update or delete products.Hence, admin has own login. ',
       technologies: 'C# | MSSQL | .NET',
       github: 'https://github.com/Azima-Qadirli/GreenShop',
     },

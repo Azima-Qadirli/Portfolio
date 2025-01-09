@@ -13,7 +13,7 @@ const Footer = () => {
   
   return (
     <footer>
-      <a href="#home" className="footer__logo">Meri-MG</a>
+      <a href="#home" className="footer__logo">Azima Qadirli</a>
       <ul className="permalinks">
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
@@ -23,13 +23,13 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-      <a href="https://www.linkedin.com/in/ azima-qadirli" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
+      <a href="https://www.linkedin.com/in/azima-qadirli/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
       <a href="https://github.com/Azima-Qadirli" target="_blank" rel="noreferrer" ><FaGithub /></a>
       {/* <a href="https://angel.co/u/meri-gogichashvili" target="_blank" rel="noreferrer" ><FaAngellist /></a> */}
       </div>
-      <div className="footer__copyright">
+      {/* <div className="footer__copyright">
         <small>&copy; ET {getYear()}. All rights reserved.</small>
-      </div>
+      </div> */}
     </footer>
   )
 }
