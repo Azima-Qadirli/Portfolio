@@ -43,7 +43,7 @@ Follow these steps to set up and run the project locally:
 6. Open your browser and visit http://localhost:3000 to view the portfolio.
 
 ### Key Fixes:
-1. Corrected missing closing backticks for the code blocks.
-2. Improved the `Usage` section formatting with bullet points for clarity.
-3. Added proper spacing and indentation for easier readability.
+1.Navigate through the portfolio using the navigation menu to explore different sections.
+2.In the Portfolio section, check out the projects I’ve worked on with detailed descriptions and links.
+3.In the Contact section, you can reach out to me via a contact form or view my social media profiles.
 
