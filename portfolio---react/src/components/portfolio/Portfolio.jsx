@@ -26,7 +26,7 @@ const Portfolio = () => {
         'It is a website which is about agriculture products and their selling and it was created based on MVC technology. Here, we have home,blog,about us and contact us pages. Also, users can login and register to the website. Home,blog pages are controlled by admin in admin panel. Furthermore, messages written by users appear in the admin panel.',
       technologies: 'C# | HTML | CSS | JavaScript | SCSS',
       link: 'https://farmtofork.bsite.net/',
-      github: 'hhttps://github.com/Azima-Qadirli/FarmToFork',
+      github: 'https://github.com/Azima-Qadirli/FarmToFork',
     },
     {
       id: 3,

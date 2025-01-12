@@ -11,9 +11,9 @@ const Header = () => {
         <h1>Azima Qadirli</h1>
         <h5 className="text-light">.Net Developer</h5>
         <CTA />
-        <a href="#contact" className="scroll__down">
+        {/* <a href="#contact" className="scroll__down">
           Scroll Down
-        </a>
+        </a> */}
         <HeaderSocials />
       </div>
     </header>
