@@ -28,7 +28,7 @@ const Intro = () => {
               <small>5+ Completed Projects</small>
             </article>
           </div>
-          <p>Over the past several months, I have gained experience as a Junior .NET Developer, working with technologies such as C#, ASP.NET, and Entity Framework to build robust web applications. As a student, collaborating with fellow developers and working on various projects has helped me develop strong problem-solving skills and the ability to work efficiently under pressure.</p>
+          <p>Over the past several months, I have gained experience as a Junior .NET Developer, working with technologies such as C#, ASP.NET, and Entity Framework to build robust web applications. I have advanced further in this field by interning at Jet Academy and Guys Group.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
