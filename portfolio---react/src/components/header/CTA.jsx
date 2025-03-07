@@ -1,4 +1,5 @@
 import React from 'react';
+// import CV from '../../assets/Azima Qadirli CV.pdf';
 import CV from '../../assets/Azima Qadirli CV.pdf';
 
 const CTA = () => {
