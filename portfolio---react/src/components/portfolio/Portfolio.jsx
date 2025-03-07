@@ -3,7 +3,8 @@ import IMG1 from '../../assets/cental.jpg';
 import IMG2 from '../../assets/greenshop.jpg';
 import IMG3 from '../../assets/calculator.jpg';
 import IMG4 from '../../assets/farmtofork.jpg';
-
+import IMG5 from '../../assets/e-commerce.jpg';
+import IMG6 from '../../assets/movie-site.jpg';
 import './portfolio.css';
 
 const Portfolio = () => {
@@ -33,7 +34,7 @@ const Portfolio = () => {
       title: 'GreenShop',
       img: IMG2,
       description: 'This is my final project based on Api. It is an e-commerce website for selling plants.In this project, users can register,login to website and review all products. But only admin can add,update or delete products.Hence, admin has own login. ',
-      technologies: 'C# | MSSQL | .NET',
+      technologies: 'C# | MSSQL |ASP.NET CORE',
       github: 'https://github.com/Azima-Qadirli/GreenShop',
     },
     {
@@ -44,6 +45,24 @@ const Portfolio = () => {
         'I created this calculator program based on Visual Form. It has standard,scientific,volume,currency,date calculator and also history to check previous calculations. ',
       technologies: 'Visual Form',
       github: 'https://github.com/Azima-Qadirli/CalculatorWinForm',
+    },
+    {
+      id: 5,
+      title: 'Mini E-Commerce',
+      img: IMG5,
+      description:
+        'This e-commerce system, built with C#, ASP.NET Core, MSSQL, SignalR, and CQRS, includes user registration, login (Google & Facebook), product and order management, and authorization for specific endpoints. It also features real-time notifications via SignalR and QR code scanning for product details. The visible issues are frontend-related; this is only the backend. ',
+      technologies: 'C# | MSSQL | ASP.NET Core | SignalR |',
+      github: 'https://github.com/Azima-Qadirli/E-Commerce.git',
+    },
+    {
+      id: 6,
+      title: 'Movie-Site',
+      img: IMG6,
+      description:
+        'Movie-Site provide information about films, including details about cast,trailers, user-rating. This website is based on CQRS,Mediator,Repository patterns, also it is created latest version of .Net(.Net9). ',
+      technologies: 'C# | MSSQL | ASP.NET Core',
+      github: 'https://github.com/Azima-Qadirli/MovieApi.git',
     }
   ];
 

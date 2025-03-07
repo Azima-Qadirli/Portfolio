@@ -30,7 +30,7 @@ const Intro = () => {
           </div>
           <p>Hello! My name is Azimaxanim Qadirli, and I am a 4th-year Computer Engineering student at the National Aviation Academy, studying my specialty in English.
 
-Over the past several months, I have gained valuable experience as a Junior .NET Developer, working with technologies such as C#, ASP.NET Core, MVC, and MSSQL to build robust and efficient web applications. To further advance my skills in this field, I have completed internships at Jet Academy and Guys Group, where I deepened my expertise in backend development and software engineering.</p>
+Over the past several months, I have gained valuable experience as a Junior .NET Developer, working with technologies as C#, ASP.NET Core, MVC,MSSQL,PostgreSQL to develop efficient web applications. To further advance my skills in this field, I have completed internships at Jet Academy and Guys Group, where I gained deep experience in backend development and software engineering.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
