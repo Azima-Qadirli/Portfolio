@@ -19,10 +19,10 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>CSS</h4>
             </article>
-            <article className="experience__details">
+            {/* <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>JavaScript</h4>
-            </article>
+            </article> */}
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Bootstrap</h4>

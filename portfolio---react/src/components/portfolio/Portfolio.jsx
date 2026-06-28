@@ -5,6 +5,7 @@ import IMG3 from '../../assets/calculator.jpg';
 import IMG4 from '../../assets/farmtofork.jpg';
 import IMG5 from '../../assets/e-commerce.jpg';
 import IMG6 from '../../assets/movie-site.jpg';
+import IMG7 from '../../assets/feane.png';
 import './portfolio.css';
 
 const Portfolio = () => {
@@ -63,7 +64,17 @@ const Portfolio = () => {
         'Movie-Site provide information about films, including details about cast,trailers, user-rating. This website is based on CQRS,Mediator,Repository patterns, also it is created latest version of .Net(.Net9). ',
       technologies: 'C# | MSSQL | ASP.NET Core',
       github: 'https://github.com/Azima-Qadirli/MovieApi.git',
+    },
+    {
+      id: 7,
+      title: 'Feane',
+      img: IMG7,
+      description:
+        'Feane is a modern restaurant website that provides information about dishes, menus, and reservations. It features a responsive design and an intuitive user interface.Home,about,menu and contact pages are controlled by admin in admin panel. Furthermore, messages written by users appear in the admin panel.',
+      technologies: 'C# | HTML | CSS | JavaScript | SCSS | ASP.NET Core MVC| PostgreSQL',
+      github: 'https://github.com/Azima-Qadirli/FeaneMVC',
     }
+
   ];
 
   return (

@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaAward } from 'react-icons/fa';
 import { VscFolderLibrary } from 'react-icons/vsc';
-import ME from '../../assets/me.jpg';
+import ME from '../../assets/me.png';
 import './intro.css';
 
 const Intro = () => {
@@ -28,9 +28,18 @@ const Intro = () => {
               <small>5+ Completed Projects</small>
             </article>
           </div>
-          <p>Hello! My name is Azimaxanim Qadirli, and I am a 4th-year Computer Engineering student at the National Aviation Academy, studying my specialty in English.
-
-Over the past several months, I have gained valuable experience as a Junior .NET Developer, working with technologies as C#, ASP.NET Core, MVC,MSSQL,PostgreSQL to develop efficient web applications. To further advance my skills in this field, I have completed internships at Jet Academy and Guys Group, where I gained deep experience in backend development and software engineering.</p>
+       <p>
+  Hi! I'm Azimaxanım Qadirli, a Computer Engineering graduate from the National Aviation Academy, 
+  specializing in robust backend development. My technical foundation was built through intensive 
+  training at <b>Jet Academy</b> and the <b>Code For Future</b> program—a prestigious initiative 
+  by the Ministry of Science and Education of the Republic of Azerbaijan and Code Academy.
+  <br /><br />
+  With hands-on experience in C# and ASP.NET Core, I focus on building scalable web solutions. 
+  Beyond development, my time at <b>Guys Group</b> allowed me to refine my skills while 
+  taking on a mentoring role, where I actively share knowledge and support fellow developers. 
+  I'm driven by solving real-world challenges and am currently looking for new opportunities 
+  to create impact.
+</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
