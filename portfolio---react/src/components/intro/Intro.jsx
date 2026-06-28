@@ -29,7 +29,7 @@ const Intro = () => {
             </article>
           </div>
        <p>
-  Hi! I'm Azimaxanım Qadirli, a Computer Engineering graduate from the National Aviation Academy, 
+  Hi! I'm Azimakhanım Gadirli, a Computer Engineering graduate from the National Aviation Academy, 
   specializing in robust backend development. My technical foundation was built through intensive 
   training at <b>Jet Academy</b> and the <b>Code For Future</b> program—a prestigious initiative 
   by the Ministry of Science and Education of the Republic of Azerbaijan and Code Academy.
